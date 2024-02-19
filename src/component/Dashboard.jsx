@@ -153,19 +153,19 @@ export default function Dashboard() {
             </div>
             <button className="dispatch">DISPATCH SELECTED</button>
             <div className="pagination">
-              <a href="#">&lt;</a>
-              <a href="#">1</a>
-              <a href="#">2</a>
+              <a href="/">&lt;</a>
+              <a href="/">1</a>
+              <a href="/">2</a>
               <button className="page-button">
-                <a>3</a>
+                <a href="/">3</a>
               </button>
-              <a href="#">.</a>
-              <a href="#">.</a>
-              <a href="#">.</a>
-              <a href="#">.</a>
-              <a href="#">.</a>
-              <a href="#">10</a>
-              <a href="#">&gt;</a>
+              <a href="/">.</a>
+              <a href="/">.</a>
+              <a href="/">.</a>
+              <a href="/">.</a>
+              <a href="/">.</a>
+              <a href="/">10</a>
+              <a href="/">&gt;</a>
             </div>
           </div>
           <table id="myTable">
